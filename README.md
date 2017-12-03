@@ -12,7 +12,7 @@ Sur un deuxieme terminal, exécuter le serveur NodeJS depuis le répertoire du p
 
 nodemon serverCrudWithMongo.js 
 
-# React
+# ReactJS
 
 Sur un troisieme terminal, lancer depuis le répertoire du projet :
 
